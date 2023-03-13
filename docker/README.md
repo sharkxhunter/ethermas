@@ -5,8 +5,6 @@ Prerequisites:
 - [Git](https://git-scm.com/)
 - Bash Shell: available in macOS by default and the vast majority of Linux distros
 
-***Note**: If you are using a Windows environment, you can use [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/) or a Bash emulator like "Git BASH" (which its included in [Git for Windows](https://gitforwindows.org/)). If you use WSL take into account that you should [configure Docker to use the WSL 2 backend](https://docs.docker.com/desktop/windows/wsl/).*
-
 
 > clone/fork 🏗 scaffold-eth:
 
