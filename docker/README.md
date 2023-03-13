@@ -1,5 +1,3 @@
-# 🏄‍♂️ Using Docker
-
 Prerequisites: 
 - [Docker](https://docs.docker.com/engine/install/)
 - [Git](https://git-scm.com/)
