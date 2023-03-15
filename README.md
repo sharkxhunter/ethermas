@@ -65,8 +65,6 @@ Documentation, tutorials, challenges, and many more resources, visit: [docs.scaf
 
 # 🔭 Learning Solidity
 
-📕 Read the docs: https://docs.soliditylang.org
-
 📚 Go through each topic from [solidity by example](https://solidity-by-example.org) editing `YourContract.sol` in **🏗 scaffold-eth**
 
 - [Primitive Data Types](https://solidity-by-example.org/primitives/)
